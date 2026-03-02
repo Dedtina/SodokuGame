@@ -52,7 +52,7 @@ Handles:
 
 ## Note
 * This is only one push. The project's timeline is in my **Unity Version Control**.
-* **Demo Link:** https://youtu.be/J0mKnyJhSsg
+* **Demo Link:** https://youtu.be/yqG6OdXOwDw
 
 ---
 *Enjoy solving Sudoku puzzles!*
