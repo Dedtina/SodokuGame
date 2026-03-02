@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f5169576e401144a782aa9c5f2586c, type: 3}
+  m_Name: UnsolvedPuzzle 1
+  m_EditorClassIdentifier: 
+  rows:
+  - 530670012
+  - 670195300
+  - 190042567
+  - 859761423
+  - 426853791
+  - 713924856
+  - 960007284
+  - 287419635
+  - 005286009
